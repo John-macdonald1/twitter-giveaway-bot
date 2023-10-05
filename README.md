@@ -13,7 +13,7 @@ To buy the code dm me on reddit u/yokogd
 * Adjustable number of giveaway to bot
 * Words to exlude
 * Words to post in giveaways
-* Rotating proxy setttings (fill in ur own proxies and it will auto rotate) 
+* Rotating proxy setttings fill in ur own proxies and it will auto rotate
 
 # Requirements
 To make the code work you will need to have Python and Pip installed in your computer
