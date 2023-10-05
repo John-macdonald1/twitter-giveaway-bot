@@ -31,6 +31,8 @@ python main.py
 
 # Running 
 To run the bot you will need to change the config file to suit all ur needs and fill it up with ur bot accounts, and run main.py 
+![Capture](https://github.com/John-macdonald1/twitter-giveaway-bot/assets/146704895/08c414bc-0c6f-4481-825b-3dab304a2000)
+
 
 # proxy
 running the bot without a proxy will get ur accounts locked then banned. only use without proxy if botting small ammounts per day 
