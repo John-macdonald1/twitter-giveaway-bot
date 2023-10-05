@@ -21,7 +21,9 @@ https://www.python.org/downloads/
 https://pip.pypa.io/en/stable/installation/
 
 Download all the modules required for the bot to work using this command:
+
 pip install -r requirements.txt
+
 To start the bot just do
 python main.py
 
