@@ -16,7 +16,7 @@ To buy the code dm me on reddit u/yokogd
 * Rotating proxy setttings fill in ur own proxies and it will auto rotate. no acccount will use the same proxy
 * works with 1-unlimited accounts
 * Unfollow accounts if the accounts have not posted giveaway in 30 days
-* Can comment on youtube vids and post screenshot onto giveaway if required - many giveaway post require this to reduce botting. post with this in to only have 300-400 rt so you have high odds of winning if u have 100 accounts 
+* Can comment on youtube vids and post screenshot onto giveaway if required - many giveaway post require this to reduce botting. posts with this in it only have 300-400 rt so you have high odds of winning if u have 100 accounts 
 
 # Requirements
 To make the code work you will need to have Python and Pip installed in your computer
