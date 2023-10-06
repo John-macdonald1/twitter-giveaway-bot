@@ -12,6 +12,7 @@ To buy the code dm me on reddit u/yokogd
 * Adjustable time between each giveaway to avoid detection
 * Adjustable number of giveaway to bot
 * Words to exlude
+* accounts to tag, set up so that 100 accounts will tag different accounts and no botting account will tag a dummy account twice to avoid detection. so each botting account will have a 3 unqiue dummy accounts to tag until the program is finished 
 * Words to post in giveaways
 * Rotating proxy setttings fill in ur own proxies and it will auto rotate. no acccount will use the same proxy
 * works with 1-unlimited accounts
