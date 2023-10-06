@@ -35,7 +35,8 @@ To run the bot you will need to change the config file to suit all ur needs and 
 
 ![Capture](https://github.com/John-macdonald1/twitter-giveaway-bot/assets/146704895/08c414bc-0c6f-4481-825b-3dab304a2000)
 
-![a](https://github.com/John-macdonald1/twitter-giveaway-bot/assets/146704895/07beb4e1-1ad2-4e7d-86d2-2805f917e142)
+
+![a](https://github.com/John-macdonald1/twitter-giveaway-bot/assets/146704895/a1e0a54c-ff37-4edd-a009-fa96a3a88a26)
 
 
 
