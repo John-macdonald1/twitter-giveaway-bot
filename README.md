@@ -13,7 +13,7 @@ To buy the code dm me on reddit u/yokogd
 * Adjustable number of giveaway to bot
 * Words to exlude
 * Words to post in giveaways
-* Rotating proxy setttings fill in ur own proxies and it will auto rotate
+* Rotating proxy setttings fill in ur own proxies and it will auto rotate. no acccount will use the same proxy
 * works with 1-1000 accounts
 * Unfollow accounts if the accounts have not posted giveaway in 30 days 
 
