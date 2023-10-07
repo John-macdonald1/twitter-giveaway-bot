@@ -83,6 +83,6 @@ maximum_day: 7
 #how many giveaway you wish to bot 
 nb_of_giveaway: 30
 
-# words the bot post on youtube to comment 
+# words the bot will post on youtube to comment 
 word_list_to_check_for_youtube_comment:
   - "test"
