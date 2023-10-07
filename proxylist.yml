@@ -1,0 +1,3 @@
+#Usage:
+#Replace 'proxy_server_host', 'proxy_server_port', 'proxy_username', and 'proxy_password' with your proxy server details. fill with as many proxy as you have 
+- "'proxy_server_host', proxy_server_port, 'proxy_username', 'proxy_password'"
