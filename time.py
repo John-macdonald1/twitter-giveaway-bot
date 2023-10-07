@@ -1,1 +1,1 @@
-code will be transferd when bot has been purchased 
+code will be transferred when bot has been purchased 
