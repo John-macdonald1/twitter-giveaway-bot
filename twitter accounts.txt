@@ -1,6 +1,0 @@
-account_username:
-  - "test 1"
-account_password:
-  - "test 1"
-
-fill this with all your twitter bot accounts 
