@@ -1,0 +1,84 @@
+
+# Words to search for giveaway
+words_to_search:
+  - "test"
+
+# words the bot will find on the post to see if we need comment one thing in particular
+word_list_to_check_for_special_comment:
+  - "test"
+
+# Those are the word needed on the tweet for the bot to comment when the tweet ask to comment random stuff
+word_list_to_check_for_comment:
+  - "comment"
+
+
+# words needed on the post for the bot to tag one or more account
+word_list_to_check_for_tag:
+  - "tag"
+
+
+# Words if we need to tag 1 account
+one_poeple_list:
+  - "tag 1"
+
+
+# Words if we need to tag 2 accounts
+two_poeple_list:
+  - "tag 2"
+
+
+# Words if we need to tag 3 accounts 
+three_or_more_poeple_list:
+  - "tag 3"
+
+
+# Accounts we want to tag
+accounts_to_tag:
+  - "@test "
+  
+# Accounts that we don't want to follow
+accounts_to_blacklist:
+  - "@test"
+
+# when u tag a account and want to write something after the tag
+sentence_for_tag:
+  - "join"
+
+
+# when you need to comment but not tag
+sentence_for_random_comment:
+  - "tag "
+
+
+# hashtag we don't want to tweet
+hashtag_to_blacklist:
+  - "giveaway"
+
+
+# We don't want to participate in giveaway with these words
+giveaway_to_blacklist:
+  - "nude"
+
+#The minimum time to wait in beetween each giveaway
+min_time: 45
+
+#The maximum time to wait in beetween each giveaway
+max_time: 300
+
+#if set to false bot will @ account without any words at the end, will only do words when the post requires it 
+add_sentence_to_tag: True
+
+# Maximum number of giveaway retrieve for each word
+max_giveaway: 100
+
+# Minimum of like the tweet must have
+minimum_like: 1
+
+# Minimum of reetweet the tweet must have
+minimum_rt: 1
+
+#Maximum day for a giveaway have been posted. so 1 = 24 hours from now and 7= 7 days from now if set to 7 it will find all giveaway done in the past 7 day and the same with 1 
+maximum_day: 7
+
+#how many giveaway you wish to bot 
+nb_of_giveaway: 30
