@@ -2,7 +2,7 @@
 
 This is a bot which automatically comments, likes, follows, and retweets giveaways to automically earn you cash or in game rewards.
 
-To buy the code dm me on reddit u/yokogd 
+To buy the code dm me on discord patrick.9736
 
 # Features
 * Comment
@@ -35,6 +35,10 @@ python main.py
 To run the bot you will need to change the config file to suit all ur needs and fill it up with ur bot accounts, and run main.py 
 
 ![Capture](https://github.com/John-macdonald1/twitter-giveaway-bot/assets/146704895/08c414bc-0c6f-4481-825b-3dab304a2000)
+
+
+
+https://github.com/John-macdonald1/twitter-giveaway-bot/assets/146704895/d4360aa7-cf93-4f06-9b13-050aa19992f6
 
 
 ![a](https://github.com/John-macdonald1/twitter-giveaway-bot/assets/146704895/a1e0a54c-ff37-4edd-a009-fa96a3a88a26)
